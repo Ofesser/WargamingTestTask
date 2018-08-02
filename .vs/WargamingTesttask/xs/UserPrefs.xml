@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F5AA6F91-9497-9589-D759-6A61BF59415E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlaneController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlaneController.cs" Line="52" Column="108" />
+      <File FileName="Assets/Scripts/PlaneCounter.cs" Line="5" Column="42" />
+      <File FileName="Assets/Scripts/PlaneSpawner.cs" Line="6" Column="80" />
+      <File FileName="Assets/Scripts/ShipConroller.cs" Line="5" Column="35" />
+      <File FileName="Assets/Scripts/TargetConroller.cs" Line="61" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
