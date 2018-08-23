@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
+<<<<<<< HEAD
 // Random comment
 
+=======
+//Check1
+>>>>>>> 88616b9d8db159e0f0b1fcc449ef074f3e6df831
 public class MovementEngine : MonoBehaviour {
 
     private float velocity = 0f;
