@@ -489,7 +489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   planeMinSpeed: 1
-  planeMaxSpeed: 10
+  planeMaxSpeed: 3
   planeMaxRotationSpeed: 5
   planeRadius: 3
   planesDistance: 3

@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Objects movement. In larger project it could be useful to make this script parent, and descripe
-// logic of concrete entities in children scripts, but in this projects it will be enough.
 
 public class MovementEngine : MonoBehaviour {
 
